@@ -1,0 +1,172 @@
+[0m[0K]0;  - chcp  1252Microsoft Windows [Version 10.0.17763.379][0K[?25l
+(c) 2018 Microsoft Corporation. All rights reserved.[0K
+[0K[?25h]0; Active code page: 1252[0K[?25l
+[0K
+B:\Brian\New folder\R\Portifolio\DataScience\test\hello>[0K[?25hg[0Ki[0Kt[0K-[0K-[0Kh[0Ke[0Kl[0Kp[0K[?25l
+'git--help' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+B:\Brian\New folder\R\Portifolio\DataScience\test\hello>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[0m[1;1H[2J[0mB:\Brian\New folder\R\Portifolio\DataScience\test\hello>g[0Kr[0K[?25lB:\Brian\New folder\R\Portifolio\DataScience\test\hello>g[0K[?25hi[0Kt[0K[61G[?25lB:\Brian\New folder\R\Portifolio\DataScience\test\hello>git -[0K[?25h-[0Kh[0Ke[0Kl[0Kp[0K]0;  - git  --help[?25l
+[0K[?25husage: git [--version] [--help] [-C <path>] [-c <name>=<value>][0K[?25l
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-pa[0Kt
+h][0K
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [[0K-
+-bare][0K
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>][0K
+           <command> [<args>][0K
+[0K
+These are common Git commands used in various situations:[0K
+[0K
+start a working area (see also: git help tutorial)[0K
+   clone      Clone a repository into a new directory[0K
+   init       Create an empty Git repository or reinitialize an existin[0Kg
+ one[0K
+[0K
+work on the current change (see also: git help everyday)[0K
+   add        Add file contents to the index[0K
+   mv         Move or rename a file, a directory, or a symlink[0K
+   reset      Reset current HEAD to the specified state[0K
+   rm         Remove files from the working tree and from the index[0K
+[0K
+examine the history and state (see also: git help revisions)[0K
+   bisect     Use binary search to find the commit that introduced a bu[0Kg
+[0K
+   grep       Print lines matching a pattern[0K
+   log        Show commit logs[0K
+   show       Show various types of objects[0K
+   status     Show the working tree status[0K
+[0K
+grow, mark and tweak your common history[0K
+   branch     List, create, or delete branches[0K
+   checkout   Switch branches or restore working tree files[0K
+   commit     Record changes to the repository[0K
+   diff       Show changes between commits, commit and working tree, et[0Kc
+[0K
+   merge      Join two or more development histories together[0K
+   rebase     Reapply commits on top of another base tip[0K
+   tag        Create, list, delete or verify a tag object signed with G[0KP
+G[0K
+[0K
+collaborate (see also: git help workflows)[0K
+   fetch      Download objects and refs from another repository[0K
+   pull       Fetch from and integrate with another repository or a loc[0Ka
+l branch[0K
+   push       Update remote refs along with associated objects[0K
+[0K
+'git help -a' and 'git help -g' list available subcommands and some[0K
+concept guides. See 'git help <command>' or 'git help <concept>'[0K
+to read about a specific subcommand or concept.[0K
+[0K[?25h]0; [?25l
+B:\Brian\New folder\R\Portifolio\DataScience\test\hello>[0K[?25hg[0Ki[0Kt[0K[61G[?25lB:\Brian\New folder\R\Portifolio\DataScience\test\hello>git h[0K[?25he[0Kl[0Kp[0K[66G[?25lB:\Brian\New folder\R\Portifolio\DataScience\test\hello>git help -[0K[?25hg[0K]0;  - git  help -g[?25l
+[0K[?25h]0; [?25l
+The common Git guides are:[0K
+   attributes          Defining attributes per path[0K
+   cli                 Git command-line interface and conventions[0K
+   core-tutorial       A Git core tutorial for developers[0K
+   cvs-migration       Git for CVS users[0K
+   diffcore            Tweaking diff output[0K
+   everyday            A useful minimum set of commands for Everyday Gi[0Kt
+[0K
+   glossary            A Git Glossary[0K
+   hooks               Hooks used by Git[0K
+   ignore              Specifies intentionally untracked files to ignor[0Ke
+[0K
+   modules             Defining submodule properties[0K
+   namespaces          Git namespaces[0K
+   repository-layout   Git Repository Layout[0K
+   revisions           Specifying revisions and ranges for Git[0K
+   tutorial            A tutorial introduction to Git[0K
+   tutorial-2          A tutorial introduction to Git: part two[0K
+   workflows           An overview of recommended workflows with Git[0K
+[0K
+'git help -a' and 'git help -g' list available subcommands and some[0K
+concept guides. See 'git help <command>' or 'git help <concept>'[0K
+to read about a specific subcommand or concept.[0K
+[0K
+B:\Brian\New folder\R\Portifolio\DataScience\test\hello>[0K[?25hg[0Ki[0K[60G[59G[?25lB:\Brian\New folder\R\Portifolio\DataScience\test\hello>git[0K[?25h[61G[?25lB:\Brian\New folder\R\Portifolio\DataScience\test\hello>git c[0K[?25ho[0Kn[0Kf[0Ki[0Kg[0K]0;  - git  config[?25l
+[0K[?25h[?25lusage: git config [<options>][0K[1G[?25h]0; [?25l
+[0K
+Config file location[0K
+    --global              use global config file[0K
+    --system              use system config file[0K
+    --local               use repository config file[0K
+    --worktree            use per-worktree config file[0K
+    -f, --file <file>     use given config file[0K
+    --blob <blob-id>      read config from given blob object[0K
+[0K
+Action[0K
+    --get                 get value: name [value-regex][0K
+    --get-all             get all values: key [value-regex][0K
+    --get-regexp          get values for regexp: name-regex [value-rege[0Kx
+][0K
+    --get-urlmatch        get value specific for the URL: section[.var][0K
+URL[0K
+    --replace-all         replace all matching variables: name value [v[0Ka
+lue_regex][0K
+    --add                 add a new variable: name value[0K
+    --unset               remove a variable: name [value-regex][0K
+    --unset-all           remove all matches: name [value-regex][0K
+    --rename-section      rename section: old-name new-name[0K
+    --remove-section      remove a section: name[0K
+    -l, --list            list all[0K
+    -e, --edit            open an editor[0K
+    --get-color           find the color configured: slot [default][0K
+    --get-colorbool       find the color setting: slot [stdout-is-tty][0K
+[0K
+Type[0K
+    -t, --type <>         value is given this type[0K
+    --bool                value is "true" or "false"[0K
+    --int                 value is decimal number[0K
+    --bool-or-int         value is --bool or --int[0K
+    --path                value is a path (file or directory name)[0K
+    --expiry-date         value is an expiry date[0K
+[0K
+Other[0K
+    -z, --null            terminate values with NUL byte[0K
+    --name-only           show variable names only[0K
+    --includes            respect include directives on lookup[0K
+    --show-origin         show origin of config (file, standard input, [0Kb
+lob, command line)[0K
+    --default <value>     with --get, use default value when missing en[0Kt
+ry[0K
+[0K
+[0K
+B:\Brian\New folder\R\Portifolio\DataScience\test\hello>[0K[?25hg[0Ki[0Kt[0K[61G[?25lB:\Brian\New folder\R\Portifolio\DataScience\test\hello>git c[0K[?25ho[0Kn[0Kf[0Ki[0Kg[0K[68G[?25lB:\Brian\New folder\R\Portifolio\DataScience\test\hello>git config -[0K[?25h-[0Kg[0Kl[0K[0Ko[?25l
+[0K[?25hb[0Ka[0Kl[0K[5G[?25lbal u[0K[?25hs[0Ke[0Kr[0K,[0K[?25lbal user[0K[?25h.[0Ke[0Km[0Ka[0Ki[0Kl[0K[16G[?25lbal user.email "[0K[?25hb[0Kr[0Ki[0Ka[0Kn[0Ks[0Kt[0Ke[0Kf[0Ka[0Kn[0Ks[0K@[0Kg[0Km[0Ka[0Ki[0Kl[0K.[0Kc[0Km[0K[?25lbal user.email "brianstefans@gmail.c[0K[?25ho[0Km[0K]0;  - git  config --global user.email "brianstefans@gmail.com[?25l
+[0K[?25h]0; [?25l
+B:\Brian\New folder\R\Portifolio\DataScience\test\hello>[0K[?25hgit config --gl[0Ko[?25l
+bal user.email "brianstefans@gmail.com[0K[?25h"[0K]0;  - git  config --global user.email "brianstefans@gmail.com"[?25l
+[0K[?25h]0; [?25l
+B:\Brian\New folder\R\Portifolio\DataScience\test\hello>[0K[?25hgit config --gl[0Ko[?25l
+bal user.email "brianstefans@gmail.com"[0K[?25h[39G[?25lbal user.email "brianstefans@gmail.co"[0K[38G[?25h[?25lbal user.email "brianstefans@gmail.c"[0K[37G[?25h[?25lbal user.email "brianstefans@gmail"[0K[35G[?25h[?25lbal user.email "brianstefans@gmai"[0K[34G[?25h[?25lbal user.email "brianstefans@gma"[0K[33G[?25h[?25lbal user.email "brianstefans@g"[0K[31G[?25h[?25lbal user.email "brianstefans@"[0K[30G[?25h[?25lbal user.email "brianstefans"[0K[29G[?25h[?25lbal user.email "brianstefan"[0K[28G[?25h[?25lbal user.email "brianstefa"[0K[27G[?25h[?25lbal user.email "brianstef"[0K[26G[?25h[?25lbal user.email "brianste"[0K[25G[?25h[?25lbal user.email "brianst"[0K[24G[?25h[?25lbal user.email "brians"[0K[23G[?25h[?25lbal user.email "brianst"[0K[24G[?25h[?25lbal user.email "brianste"[0K[25G[?25h[?25lbal user.email "brianstef"[0K[26G[?25h[?25lbal user.email "brianstefa"[0K[27G[?25h[?25lbal user.email "brianstefan"[0K[28G[?25h[?25lbal user.email "brianstefans"[0K[29G[?25h[28G[27G[26G[25G[24G[22G[21G[20G[19G[18G[17G[16G[15G[?25lbal user.emai "brianstefans"[0K[14G[?25h[?25lbal user.ema "brianstefans"[0K[13G[?25h[?25lbal user.em "brianstefans"[0K[12G[?25h[?25lbal user.e "brianstefans"[0K[11G[?25h[?25lbal user. "brianstefans"[0K[10G[?25h[?25lbal user.n "brianstefans"[0K[11G[?25h[?25lbal user.na "brianstefans"[0K[12G[?25h[?25lbal user.nae "brianstefans"[0K[13G[?25h[?25lbal user.naem "brianstefans"[0K[14G[?25h[?25lbal user.nae "brianstefans"[0K[13G[?25h[?25lbal user.na "brianstefans"[0K[12G[?25h[?25lbal user.nam "brianstefans"[0K[13G[?25h[?25lbal user.name "brianstefans"[0K[14G[?25h]0;  - git  config --global user.name "brianstefans"[?25l
+[0K[?25h]0; [?25l
+B:\Brian\New folder\R\Portifolio\DataScience\test\hello>[0K[?25h
